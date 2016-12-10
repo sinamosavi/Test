@@ -16,4 +16,4 @@ int absVal(int num) {
 int main() {
 	printf("Hello world!");
 	return 0;
-}؛
+}
