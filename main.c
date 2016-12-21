@@ -27,4 +27,3 @@ gcvtdg
 
 aa
 cc
-dd
